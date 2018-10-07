@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\25a432bec10eb4ee01cdae27a9ff919aff7cda29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ba7d44f7c93efbae2f028074c289171e285aaba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\0d7c3dceae2d66baae6c14e1167c8049ab3c0380\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e33c3b43927300ec5cc19c90b39a60cec870201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\524584b379b8d1b4825240fd5d043544132f1904\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bf08b0531ccbd8c991c998b76b3a29fe34d614f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_20875c1c5bebbbcd8697a068e48fd808d7331f7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\0fc6be5a590e0d84f1b267db96f7c902ee5b55b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bff19b26e70dddc51c87f4fc64be5447d194f751\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\c0aa86e91bc9c45fa607c3fac131d04cfdf1a394\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8130a5c4eded95f511d731f563cca055ae9d72e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\376f2bdadf433d14e4d7a03300c1e416ead928ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b42242000b3d4a40717a59f25bdb68723458cc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.3.0_87952bad96618bbba03d87fae515b75f92c31f11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\451caace079e7f124bfd3c82e8f751ba597685ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d42682c25097879a7fe7ee895f60625a95edfc53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\660174b6c387c059edfab05b30e1dfa9c0b8cdb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b86d76e048a3b3dec27fd7c626d41a77f83e58d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4578e7e69dfa42cab3bab357edc726b056e0cf00">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8fdb7d5f90d9ef9dcabb3378e04c40f18d728208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\2eec2dce3b67788c022a28f3e152125f630b70bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_175c9febd57950207197d265b912d5a25a20036b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\f223ff5df03e3ea302efd4940f33f77be3982088\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_709fa08385d08099d5ec1f20888aef3c921529e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\MyAppQR\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_def453d49cae3ee5386e08d409eb44f9a1139293\classes.dex" />
+    </item>
+
+</items>
